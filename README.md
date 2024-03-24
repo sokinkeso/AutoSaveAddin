@@ -16,8 +16,8 @@ To install this addin in TwinBasic, just unzip and copy each architecture dll in
 
 *** Release History ***
 -----------------
-2023-11-30
-------------- BETA 1
+2023-11-30 BETA 1
+------------- 
 Features:
 - automatic saving
 - choose a time interval
@@ -30,8 +30,8 @@ Features:
 
 
 
-2023-12-2
-------------- BETA 2
+2023-12-2 BETA 2
+------------- 
 - Fixed: Addin checks if project has any changes before saving
 - Enchancement: Addin checks if the project is new and shows notification for the First-time-save.
 - Added: New setting, Keep Log in Debug Console 
@@ -42,8 +42,8 @@ Features:
 - Added: Project settings option
 
 
-2024-3-24
-------------- Version 2.2.23
+2024-3-24 Version 2.2.23
+------------- 
 *** Known issue: in x64 the settings window is not staying on top of the IDE
 - Fixed: Project settings option is now working
 - Fixed: Project settings only saved after first manually save
