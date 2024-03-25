@@ -3,12 +3,19 @@
 
 
 AutoSave addin for twinBasic, provides automatic saving with the ability to choose a time interval, confirmation and Auto-load.
-- Features
-Addin checks if project has any changes before saving
-Addin checks if the project is new and shows notification for the First-time-save.
-Keeps Log in Debug Console
-Startup options: Start Enabled, Disabled or  Ask the user
-Keeps General or Project settings
+Features
+---------
+- Automatic saving
+- Choose a time interval
+- Choose interval type (seconds or minutes)
+- Check project for changes before saving
+- Shows notification for the First-time-save, in a new project
+- Confirmation before save
+- Auto-Load on project open/new
+- Startup options: Start Enabled, Disabled or  Ask the user
+- Logging in the debug console
+- Keeps General or Project settings
+
 
 The button, that added on the toolbar, has two functions:
 - Enable/Disable the Autosave functionality (with Click)
