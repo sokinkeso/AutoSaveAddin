@@ -2,7 +2,14 @@
 ![image](https://github.com/sokinkeso/AutoSaveAddin/assets/113173954/502991c5-bdf0-4c88-b18b-f8f8b6b63aef)
 
 
-AutoSave addin provides automatic saving, with the ability to choose a time interval, confirmation and Auto-load.
+AutoSave addin for twinBasic, provides automatic saving with the ability to choose a time interval, confirmation and Auto-load.
+- Features
+Addin checks if project has any changes before saving
+Addin checks if the project is new and shows notification for the First-time-save.
+Keeps Log in Debug Console
+Startup options: Start Enabled, Disabled or  Ask the user
+Keeps General or Project settings
+
 The button, that added on the toolbar, has two functions:
 - Enable/Disable the Autosave functionality (with Click)
 - Show addin settings (with Double-click)
