@@ -1,5 +1,6 @@
 # AutoSaveAddin
-![image](https://github.com/sokinkeso/AutoSaveAddin/assets/113173954/c2d641ad-687a-46c7-be17-f2a153f94730)
+![image](https://github.com/sokinkeso/AutoSaveAddin/assets/113173954/502991c5-bdf0-4c88-b18b-f8f8b6b63aef)
+
 
 AutoSave addin provides automatic saving, with the ability to choose a time interval, confirmation and Auto-load.
 The button, that added on the toolbar, has two functions:
