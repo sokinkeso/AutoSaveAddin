@@ -29,6 +29,8 @@ The button, that added on the toolbar, has two functions:
 >\twinBASIC_IDE_BETA_xxx\addins\win32\
 >\twinBASIC_IDE_BETA_xxx\addins\win64\
 
+> [!IMPORTANT]  
+> To install this addin in TwinBasic, just unzip and copy each architecture dll in the corresponding folder
 
 
 *** Release History ***
