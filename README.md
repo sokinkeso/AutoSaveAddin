@@ -1,5 +1,8 @@
 # AutoSaveAddin
+
 ![image](https://github.com/sokinkeso/AutoSaveAddin/assets/113173954/502991c5-bdf0-4c88-b18b-f8f8b6b63aef)
+
+<img src="https://github.com/sokinkeso/AutoSaveAddin/assets/113173954/502991c5-bdf0-4c88-b18b-f8f8b6b63aef" width="100">
 
 AutoSave addin for twinBasic, provides automatic saving with the ability to choose a time interval, confirmation and Auto-load.
 
