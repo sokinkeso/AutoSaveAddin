@@ -65,3 +65,7 @@ Features:
 *** Known issue: in x64 the settings window is not staying on top of the IDE
 - Fixed: Project settings option is now working
 - Fixed: Project settings only saved after first manually save
+
+2024-4-2 Version 2.3.0.0
+------------- 
+- Fixed: in x64 the settings window was not staying on top of the IDE
