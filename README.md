@@ -1,7 +1,6 @@
 # AutoSaveAddin
 
-![image](https://github.com/sokinkeso/AutoSaveAddin/assets/113173954/502991c5-bdf0-4c88-b18b-f8f8b6b63aef)
-
+![image](https://github.com/user-attachments/assets/f28df515-7aea-442c-aa7d-4a2903361f68)
 
 
 AutoSave addin for twinBasic, provides automatic saving with the ability to choose a time interval, confirmation and Auto-load.
@@ -18,7 +17,7 @@ Features
 - Startup options: Start Enabled, Disabled or  Ask the user
 - Logging in the debug console
 - Keeps General or Project settings
-
+- Save before Project run
 
 The button, that added on the toolbar, has two functions:
 - Enable/Disable the Autosave functionality (with Click)
@@ -35,7 +34,7 @@ The button, that added on the toolbar, has two functions:
 *** Release History ***
 -----------------
 2023-11-30 BETA 1
-------------- 
+-----------------
 Features:
 - automatic saving
 - choose a time interval
@@ -49,7 +48,7 @@ Features:
 
 
 2023-12-2 BETA 2
-------------- 
+-----------------
 - Fixed: Addin checks if project has any changes before saving
 - Enchancement: Addin checks if the project is new and shows notification for the First-time-save.
 - Added: New setting, Keep Log in Debug Console 
@@ -61,11 +60,18 @@ Features:
 
 
 2024-3-24 Version 2.2.23
-------------- 
+------------------------
 *** Known issue: in x64 the settings window is not staying on top of the IDE
 - Fixed: Project settings option is now working
 - Fixed: Project settings only saved after first manually save
 
 2024-4-2 Version 2.3.0.0
-------------- 
+------------------------
 - Fixed: in x64 the settings window was not staying on top of the IDE
+
+
+2025-04-23 v3.0.0.0  *** compiled with beta 748
+-----------------------------------------------
+- added: new feature: Save Before Project run
+- fixed: some minor graph issues
+- fixed: msgbox default button not set
